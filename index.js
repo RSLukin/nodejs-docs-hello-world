@@ -3,7 +3,7 @@ var http = require('http');
 var server = http.createServer(function(request, response) {
 
     response.writeHead(200, {"Content-Type": "text/plain"});
-    response.end("Hello World! Terraform_final_test_1111");
+    response.end("Hello World! Terraform_final_test_17_10_2018");
 
 });
 
